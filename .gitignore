@@ -1,0 +1,6 @@
+state
+.venv
+.mypy_cache
+.deta
+.env
+__pycache__
